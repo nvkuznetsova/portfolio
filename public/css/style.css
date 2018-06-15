@@ -19,11 +19,7 @@ body {padding-top: 50px;}
   box-shadow: -5px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
-.lab:hover {
-  background-color: rgba(0, 0, 0, 0.2);
-}
-
-.divide::after {
+.divide {
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
   width: 100%;
 }
@@ -31,4 +27,8 @@ body {padding-top: 50px;}
 .btn {
   width: 100%;
   padding: 10px;
+}
+
+.col {
+  height: 100%;
 }
