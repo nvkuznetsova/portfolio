@@ -12,6 +12,10 @@ body {padding-top: 50px;}
     font-weight: 600;
 }
 
+.task, .sem {
+  padding: 10px 0;
+}
+
 .lab {
   padding: 20px;
   margin: 15px auto;
@@ -27,8 +31,4 @@ body {padding-top: 50px;}
 .btn {
   width: 100%;
   padding: 10px;
-}
-
-.col {
-  height: 100%;
 }
