@@ -19,14 +19,14 @@ body {padding-top: 50px;}
   padding: 10px 0;
 }
 
-.lab {
+.lab, .report {
   padding: 20px;
   margin: 15px auto;
   border: 1px solid #000;
   box-shadow: -5px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
-.lab .report {
+.report {
   border: 1px solid red;
 }
 
