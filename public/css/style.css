@@ -10,9 +10,12 @@ body {padding-top: 50px;}
     line-height: 1.0909rem;
     margin-top: 1.0909rem;
     font-weight: 600;
+    text-transform: uppercase;
+    padding: 10px 0;
 }
 
-.task, .sem {
+.task {
+  text-align: center;
   padding: 10px 0;
 }
 
@@ -31,4 +34,6 @@ body {padding-top: 50px;}
 .btn {
   width: 100%;
   padding: 10px;
+  font-size: 1.25rem;
+  line-height: 1.2rem;
 }
