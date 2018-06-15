@@ -6,10 +6,10 @@ html {
 body {padding-top: 50px;}
 
 .sem {
-    font-size: 1.25rem;
-    line-height: 1.2rem;
-    margin-top: 1.2rem;
-    font-weight: 500;
+    font-size: 1.3705rem;
+    line-height: 1.0909rem;
+    margin-top: 1.0909rem;
+    font-weight: 600;
 }
 
 .lab {
@@ -17,4 +17,17 @@ body {padding-top: 50px;}
   margin: 15px auto;
   border: 1px solid #000;
   box-shadow: -5px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.lab:hover {
+  background-color: #C0C0C0;
+}
+
+.divide::after {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  width: 100%;
+}
+
+.btn {
+  width: 100%;
 }
